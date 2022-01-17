@@ -29,5 +29,5 @@ In order to run the application you will have to be in the same directory as ind
 From there you just answer the questions as they come (you may skip certain ones if you do not wish to answer) and when you are done a README.md file will be 
 created in the develop directory. From here you can open in up in vscode or as a preveiw to veiw the whole thing as it would appear on github.
 
-Here is a video that demonstrates the functionality [video](./Develop/assets/video/README-tutorial)
+Here is a video that demonstrates the functionality [video](https://watch.screencastify.com/v/QUtW47Bwh78ORHIs61ab)
 
